@@ -9,6 +9,8 @@ namespace ConsoleApp1
 {
     internal class Program
     {
+        // this is a test
+
         static async Task Main(string[] args)
         {
             var response = GetData();
