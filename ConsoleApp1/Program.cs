@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    //this is a git testing
     internal class Program
     {
         // this is a test
