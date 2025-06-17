@@ -53,6 +53,11 @@ namespace ConsoleApp1
 
         }
 
+        public void DisplayTest()
+        {
+            Console.WriteLine("branch testing");
+        }
+
         public static (List<string> numbers, string Error, bool isSuccess) GetData()
         {
             List<string> data = new List<string>();
